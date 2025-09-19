@@ -1,0 +1,28 @@
+{
+  "model_name_or_path": "/homes/qf/models/roberta-base",
+  "train_file": "./dataset/MGT/train.jsonl",
+  "validation_file": "./dataset/MGT/valid.jsonl",
+  "test_file": "./dataset/MGT/test.jsonl",
+  "text_key": "text",
+  "label_key": "label",
+  "max_seq_length": 512,
+  "pad_to_max_length": true,
+
+  "output_dir": "./outputs_1/surrogate_roberta",
+  "overwrite_output_dir": true,
+  "do_train": true,
+  "do_eval": true,
+  "do_predict": true,
+
+  "num_train_epochs": 3,
+  "learning_rate": 5e-6,
+  "per_device_train_batch_size": 16,
+  "per_device_eval_batch_size": 16,
+  "evaluation_strategy": "epoch",
+  "save_strategy": "epoch",
+  "load_best_model_at_end": true,
+  "metric_for_best_model": "accuracy",
+  "greater_is_better": true,
+  "logging_dir": "./logs",
+  "logging_steps": 100
+}

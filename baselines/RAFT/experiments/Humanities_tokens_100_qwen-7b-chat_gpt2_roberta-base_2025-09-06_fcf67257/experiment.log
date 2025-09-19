@@ -1,0 +1,559 @@
+2025-09-06 17:57:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - Creating experiment Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257
+2025-09-06 17:57:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - Starting experiment run...
+2025-09-06 17:57:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - GPU Name: NVIDIA GeForce RTX 3090
+2025-09-06 17:57:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - Allocated memory: 964.20 MB
+2025-09-06 17:57:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - Cached memory: 1558.00 MB
+2025-09-06 17:57:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Word to replace: as
+2025-09-06 17:57:34 - transformers_modules.Qwen-7B-Chat.modeling_qwen - WARNING - The model is automatically converting to bf16 for faster inference. If you want to disable the automatic precision, please manually add bf16/fp16/fp32=True to "AutoModelForCausalLM.from_pretrained".
+2025-09-06 17:57:34 - transformers_modules.Qwen-7B-Chat.modeling_qwen - WARNING - Try importing flash-attention for faster inference...
+2025-09-06 17:57:34 - transformers_modules.Qwen-7B-Chat.modeling_qwen - WARNING - Warning: import flash_attn rotary fail, please install FlashAttention rotary to get higher efficiency https://github.com/Dao-AILab/flash-attention/tree/main/csrc/rotary
+2025-09-06 17:57:34 - transformers_modules.Qwen-7B-Chat.modeling_qwen - WARNING - Warning: import flash_attn rms_norm fail, please install FlashAttention layer_norm to get higher efficiency https://github.com/Dao-AILab/flash-attention/tree/main/csrc/layer_norm
+2025-09-06 17:57:34 - transformers_modules.Qwen-7B-Chat.modeling_qwen - WARNING - Warning: import flash_attn fail, please install FlashAttention to get higher efficiency https://github.com/Dao-AILab/flash-attention
+2025-09-06 17:57:51 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Returned candidate words: ['film', 'and', 'other', 'forms', 'of', 'creative', 'expression', 'While', 'the', 'concept', 'of', 'art', 'has', 'been', 'defined']
+2025-09-06 17:57:52 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Word to replace: as
+2025-09-06 17:57:56 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Returned candidate words: ['film', 'and', 'other', 'forms', 'of', 'expression', 'Art', 'has', 'been', 'created', 'throughout', 'history', 'for', 'various', 'purposes']
+2025-09-06 17:57:56 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Word to replace: of
+2025-09-06 17:58:00 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Returned candidate words: ['film', 'radio', 'television', 'and', 'video', 'games', 'Some', 'forms', 'of', 'art', 'are', 'considered', 'to', 'be', 'handicrafts']
+2025-09-06 17:58:00 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 -Word of not replaced
+2025-09-06 17:58:00 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Word to replace: well
+2025-09-06 17:58:03 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Returned candidate words: ['film', 'video', 'games', 'and', 'more', 'recently', 'digital', 'art', 'Output', 'then', 'furthermore', 'likewise', 'additionally', 'also', 'moreover']
+2025-09-06 17:58:03 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Word to replace: by
+2025-09-06 17:58:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Returned candidate words: ['cinema', 'video', 'games', 'and', 'other', 'media', 'like', 'art', 'criticism', 'and', 'curating', 'Some', 'prominent', 'examples', 'include']
+2025-09-06 17:58:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Word to replace: of
+2025-09-06 17:58:11 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Returned candidate words: ['filmmaking', 'animation', 'and', 'video', 'games', 'Original', 'sentence', 'Art', 'encompasses', 'a', 'wide', 'array', 'of', 'human', 'activities']
+2025-09-06 17:58:11 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 -Word of not replaced
+2025-09-06 17:58:11 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Word to replace: and
+2025-09-06 17:58:15 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Returned candidate words: ['filmmaking', 'photography', 'and', 'various', 'other', 'media', 'What', 'is', 'commonly', 'considered', 'to', 'be', 'art', 'may', 'vary']
+2025-09-06 17:58:15 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 -Word and not replaced
+2025-09-06 17:58:15 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Word to replace: of
+2025-09-06 17:58:19 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 - Returned candidate words: ['cinema', 'television', 'video', 'games', 'animation', 'audio', 'engineering', 'and', 'other', 'forms', 'of', 'media', 'production', 'Sentence', 'Art']
+2025-09-06 17:58:19 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 0 -Word of not replaced
+2025-09-06 17:58:19 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 - Word to replace: as
+2025-09-06 17:58:23 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 - Returned candidate words: ['On', 'the', 'other', 'hand', 'Song', 'dynasty', 'paintings', 'feature', 'more', 'realistic', 'brushwork', 'and', 'greater', 'attention', 'to']
+2025-09-06 17:58:23 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 - Word to replace: by
+2025-09-06 17:58:28 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 - Returned candidate words: ['Meanwhile', 'during', 'the', 'Song', 'Dynasty', 'landscape', 'painting', 'was', 'transformed', 'into', 'an', 'intricate', 'representation', 'of', 'reality']
+2025-09-06 17:58:28 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 - Word to replace: periods
+2025-09-06 17:58:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 - Returned candidate words: ['In', 'contrast', 'works', 'produced', 'during', 'the', 'Song', 'dynasty', 'depict', 'more', 'detailed', 'scenes', 'with', 'a', 'naturalistic']
+2025-09-06 17:58:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 - Word to replace: on
+2025-09-06 17:58:35 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 - Returned candidate words: ['In', 'contrast', 'during', 'the', 'Song', 'dynasty', 'landscape', 'paintings', 'often', 'depicted', 'the', 'surrounding', 'nature', 'showcasing', 'its']
+2025-09-06 17:58:35 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 - Word to replace: the
+2025-09-06 17:58:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 - Returned candidate words: ['As', 'compared', 'to', 'the', 'Song', 'dynasty', 'their', 'paintings', 'tend', 'to', 'be', 'more', 'vivid', 'Using', 'brighter']
+2025-09-06 17:58:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 -Word the not replaced
+2025-09-06 17:58:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 - Word to replace: over
+2025-09-06 17:58:41 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 1 - Returned candidate words: ['Meanwhile', 'during', 'the', 'Ming', 'dynasty', 'paintings', 'often', 'depicted', 'people', 'in', 'the', 'outdoors', 'reflecting', 'an', 'enthusiasm']
+2025-09-06 17:58:41 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Word to replace: Kant
+2025-09-06 17:58:46 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Returned candidate words: ['Clive', 'Bell', 'They', 'defined', 'art', 'as', 'anything', 'that', 'is', 'beautiful', 'or', 'significant', 'Art', 'can', 'be']
+2025-09-06 17:58:46 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Word to replace: as
+2025-09-06 17:58:50 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Returned candidate words: ['Clive', 'Bell', 'The', 'artistic', 'movement', 'known', 'as', 'Cubism', 'which', 'originated', 'in', 'France', 'in', 'the', 'late']
+2025-09-06 17:58:50 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 -Word as not replaced
+2025-09-06 17:58:50 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Word to replace: art
+2025-09-06 17:58:54 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Returned candidate words: ['Clive', 'Bell', 'who', 'sought', 'to', 'define', 'art', 'purely', 'in', 'terms', 'of', 'its', 'formal', 'properties', 'In']
+2025-09-06 17:58:54 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 -Word art not replaced
+2025-09-06 17:58:54 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Word to replace: of
+2025-09-06 17:58:58 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Returned candidate words: ['Clive', 'Bell', 'For', 'them', 'an', 'artwork', 'is', 'not', 'just', 'about', 'what', 'it', 'represents', 'but', 'also']
+2025-09-06 17:58:58 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Word to replace: century
+2025-09-06 17:59:00 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Returned candidate words: ['Clive', 'Bell', 'They', 'rejected', 'the', 'idea', 'that', 'art', 'should', 'be', 'primarily', 'representational', 'arguing', 'instead', 'that']
+2025-09-06 17:59:00 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Word to replace: of
+2025-09-06 17:59:04 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Returned candidate words: ['Clive', 'Bell', 'Art', 'historians', 'and', 'critics', 'often', 'focus', 'on', 'the', 'formal', 'elements', 'of', 'works', 'of']
+2025-09-06 17:59:04 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 -Word of not replaced
+2025-09-06 17:59:04 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Word to replace: in
+2025-09-06 17:59:09 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 2 - Returned candidate words: ['Clive', 'Bell', 'The', 'idea', 'is', 'that', 'art', 'is', 'more', 'than', 'just', 'representation', 'instead', 'it', 'represents']
+2025-09-06 17:59:09 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 - Word to replace: Kant
+2025-09-06 17:59:13 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 - Returned candidate words: ['example', 'in', 'his', 'famous', 'dialogue', 'Ion', 'he', 'argues', 'that', 'art', 'should', 'be', 'used', 'to', 'inspire']
+2025-09-06 17:59:13 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 - Word to replace: as
+2025-09-06 17:59:17 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 - Returned candidate words: ['instance', 'in', 'his', 'work', 'The', 'Republic', 'he', 'argues', 'that', 'art', 'should', 'be', 'used', 'to', 'stimulate']
+2025-09-06 17:59:17 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 - Word to replace: to
+2025-09-06 17:59:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 - Returned candidate words: ['example', 'in', 'the', 'Theaetetus', 'dialogue', 'he', 'discusses', 'whether', 'art', 'can', 'truly', 'reflect', 'the', 'truth', 'or']
+2025-09-06 17:59:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 -Word to not replaced
+2025-09-06 17:59:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 - Word to replace: which
+2025-09-06 17:59:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 - Returned candidate words: ['example', 'what', 'is', 'art', 'Is', 'it', 'something', 'that', 'exists', 'independently', 'of', 'its', 'creator', 'or', 'does']
+2025-09-06 17:59:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 -Word which not replaced
+2025-09-06 17:59:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 - Word to replace: of
+2025-09-06 17:59:29 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 - Returned candidate words: ['instance', 'in', 'Theaetetus', 'he', 'argues', 'that', 'the', 'beauty', 'of', 'an', 'artwork', 'is', 'determined', 'by', 'its']
+2025-09-06 17:59:29 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 - Word to replace: to
+2025-09-06 17:59:31 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 - Returned candidate words: ['instance', 'he', 'argues', 'that', 'beauty', 'is', 'an', 'essential', 'component', 'of', 'art', 'in', 'his', 'famous', 'allegory']
+2025-09-06 17:59:31 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 3 -Word to not replaced
+2025-09-06 17:59:31 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 - Word to replace: years
+2025-09-06 17:59:33 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 - Returned candidate words: ['other', 'fragments', 'of', 'artwork', 'have', 'been', 'found', 'in', 'caves', 'across', 'Europe', 'to', 'years', 'caves', 'used']
+2025-09-06 17:59:33 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 - Word to replace: old
+2025-09-06 17:59:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 - Returned candidate words: ['other', 'animal', 'bones', 'as', 'well', 'as', 'other', 'tools', 'and', 'implements', 'such', 'as', 'scrapers', 'and', 'arrowheads']
+2025-09-06 17:59:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 - Word to replace: to
+2025-09-06 17:59:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 - Returned candidate words: ['tools', 'such', 'as', 'hand', 'axes', 'and', 'blades', 'have', 'also', 'been', 'uncovered', 'at', 'the', 'site', 'many']
+2025-09-06 17:59:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 -Word to not replaced
+2025-09-06 17:59:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 - Word to replace: years
+2025-09-06 17:59:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 - Returned candidate words: ['other', 'cave', 'paintings', 'have', 'also', 'been', 'uncovered', 'in', 'various', 'parts', 'of', 'Europe', 'ranging', 'from', 'France']
+2025-09-06 17:59:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 - Word to replace: of
+2025-09-06 17:59:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 - Returned candidate words: ['theories', 'suggest', 'that', 'early', 'humans', 'used', 'these', 'caves', 'as', 'shelters', 'with', 'spears', 'tools', 'and', 'artwork']
+2025-09-06 17:59:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 - Word to replace: as
+2025-09-06 17:59:50 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 4 - Returned candidate words: ['European', 'artifacts', 'that', 'are', 'over', 'years', 'old', 'have', 'also', 'been', 'found', 'including', 'hand', 'axes', 'and']
+2025-09-06 17:59:50 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Word to replace: for
+2025-09-06 17:59:55 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Returned candidate words: ['The', 'extensive', 'period', 'The', 'prolonged', 'existence', 'The', 'enduring', 'historical', 'timeline', 'The', 'long', 'term', 'span', 'The']
+2025-09-06 17:59:55 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 -Word for not replaced
+2025-09-06 17:59:55 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Word to replace: of
+2025-09-06 17:59:59 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Returned candidate words: ['In', 'addition', 'to', 'classical', 'Greece', 'other', 'ancient', 'civilizations', 'such', 'as', 'Rome', 'and', 'Egypt', 'also', 'produced']
+2025-09-06 17:59:59 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Word to replace: in
+2025-09-06 18:00:03 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Returned candidate words: ['Output', 'Implication', 'Resulting', 'Accomplishment', 'Consequence', 'Effect', 'Outcome', 'Impact', 'Conclusion', 'Resolution', 'Aftermath', 'Resultant', 'Influence', 'End', 'result']
+2025-09-06 18:00:03 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 -Word in not replaced
+2025-09-06 18:00:03 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Word to replace: the
+2025-09-06 18:00:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Returned candidate words: ['Input', 'the', 'Output', 'it', 'that', 'which', 'this', 'all', 'every', 'each', 'no', 'such', 'same', 'distinct', 'unique']
+2025-09-06 18:00:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Word to replace: of
+2025-09-06 18:00:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Returned candidate words: ['It', 'is', 'well', 'known', 'that', 'ancient', 'art', 'can', 'be', 'found', 'in', 'many', 'different', 'parts', 'of']
+2025-09-06 18:00:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 -Word of not replaced
+2025-09-06 18:00:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Word to replace: the
+2025-09-06 18:00:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Returned candidate words: ['Many', 'ancient', 'civilizations', 'also', 'utilized', 'a', 'variety', 'of', 'materials', 'such', 'as', 'bronze', 'clay', 'stone', 'and']
+2025-09-06 18:00:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Word to replace: by
+2025-09-06 18:00:19 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Returned candidate words: ['One', 'specific', 'type', 'of', 'sculpture', 'that', 'flourished', 'during', 'this', 'time', 'was', 'the', 'iconic', 'statue', 'known']
+2025-09-06 18:00:19 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Word to replace: of
+2025-09-06 18:00:23 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 5 - Returned candidate words: ['Many', 'contemporary', 'artists', 'today', 'continue', 'to', 'draw', 'inspiration', 'from', 'these', 'ancient', 'traditions', 'The', 'influence', 'of']
+2025-09-06 18:00:23 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Word to replace: of
+2025-09-06 18:00:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Returned candidate words: ['the', 'fundamental', 'principles', 'of', 'tragedy', 'are', 'Pathos', 'emotional', 'engagement', 'Ethos', 'characterization', 'and', 'Kairos', 'temporal', 'and']
+2025-09-06 18:00:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 -Word of not replaced
+2025-09-06 18:00:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Word to replace: as
+2025-09-06 18:00:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Returned candidate words: ['tragedy', 'should', 'consist', 'of', 'three', 'unities', 'unity', 'of', 'time', 'unity', 'of', 'place', 'and', 'unity', 'of']
+2025-09-06 18:00:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Word to replace: average
+2025-09-06 18:00:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Returned candidate words: ['the', 'structure', 'of', 'a', 'drama', 'should', 'be', 'composed', 'of', 'five', 'acts', 'including', 'an', 'introduction', 'exposition']
+2025-09-06 18:00:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 -Word average not replaced
+2025-09-06 18:00:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Word to replace: well
+2025-09-06 18:00:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Returned candidate words: ['the', 'greatest', 'comedies', 'depict', 'individuals', 'who', 'suffer', 'from', 'vice', 'and', 'their', 'falling', 'into', 'moral', 'ruin']
+2025-09-06 18:00:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 -Word well not replaced
+2025-09-06 18:00:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Word to replace: of
+2025-09-06 18:00:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Returned candidate words: ['a', 'play', 'must', 'contain', 'certain', 'elements', 'such', 'as', 'an', 'opening', 'scene', 'a', 'series', 'of', 'scenes']
+2025-09-06 18:00:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 -Word of not replaced
+2025-09-06 18:00:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Word to replace: be
+2025-09-06 18:00:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Returned candidate words: ['tragedy', 'must', 'involve', 'both', 'an', 'ascending', 'and', 'descending', 'course', 'with', 'the', 'protagonist', 'initially', 'achieving', 'success']
+2025-09-06 18:00:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 -Word be not replaced
+2025-09-06 18:00:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Word to replace: to
+2025-09-06 18:00:53 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Returned candidate words: ['plays', 'should', 'consist', 'of', 'three', 'acts', 'with', 'the', 'first', 'act', 'introducing', 'characters', 'and', 'establishing', 'the']
+2025-09-06 18:00:53 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 -Word to not replaced
+2025-09-06 18:00:53 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Word to replace: than
+2025-09-06 18:00:56 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 6 - Returned candidate words: ['the', 'ultimate', 'purpose', 'of', 'art', 'is', 'to', 'create', 'beauty', 'as', 'well', 'as', 'to', 'give', 'pleasure']
+2025-09-06 18:00:56 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Word to replace: which
+2025-09-06 18:01:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Returned candidate words: ['understanding', 'of', 'what', 'it', 'means', 'to', 'be', 'human', 'By', 'engaging', 'with', 'these', 'works', 'individuals', 'come']
+2025-09-06 18:01:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 -Word which not replaced
+2025-09-06 18:01:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Word to replace: in
+2025-09-06 18:01:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Returned candidate words: ['understanding', 'of', 'reality', 'by', 'allowing', 'individuals', 'to', 'engage', 'with', 'the', 'fundamental', 'questions', 'that', 'define', 'human']
+2025-09-06 18:01:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Word to replace: of
+2025-09-06 18:01:09 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Returned candidate words: ['reality', 'By', 'examining', 'how', 'we', 'interact', 'with', 'and', 'perceive', 'works', 'of', 'art', 'we', 'can', 'gain']
+2025-09-06 18:01:09 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Word to replace: truth
+2025-09-06 18:01:13 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Returned candidate words: ['understanding', 'of', 'what', 'it', 'means', 'to', 'be', 'human', 'They', 'act', 'as', 'a', 'catalyst', 'for', 'social']
+2025-09-06 18:01:13 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Word to replace: that
+2025-09-06 18:01:17 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Returned candidate words: ['understanding', 'of', 'reality', 'They', 'are', 'the', 'product', 'of', 'an', 'artistic', 'process', 'that', 'engages', 'the', 'mind']
+2025-09-06 18:01:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 -Word that not replaced
+2025-09-06 18:01:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Word to replace: also
+2025-09-06 18:01:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Returned candidate words: ['understanding', 'of', 'reality', 'one', 'that', 'is', 'their', 'own', 'By', 'doing', 'so', 'these', 'works', 'reveal', 'the']
+2025-09-06 18:01:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Word to replace: as
+2025-09-06 18:01:25 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Returned candidate words: ['reality', 'and', 'allow', 'us', 'to', 'connect', 'with', 'each', 'other', 'in', 'new', 'ways', 'Let', 's', 'brainstorm']
+2025-09-06 18:01:25 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Word to replace: of
+2025-09-06 18:01:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 7 - Returned candidate words: ['reality', 'by', 'revealing', 'new', 'possibilities', 'How', 'does', 'this', 'process', 'unfold', 'And', 'what', 'role', 'do', 'individual']
+2025-09-06 18:01:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 - Word to replace: 20
+2025-09-06 18:01:29 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 - Returned candidate words: ['had', 'a', 'profound', 'impact', 'on', 'the', 'development', 'of', 'European', 'painting', 'in', 'terms', 'of', 'form', 'and']
+2025-09-06 18:01:29 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 -Word 20 not replaced
+2025-09-06 18:01:29 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 - Word to replace: early
+2025-09-06 18:01:33 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 - Returned candidate words: ['gained', 'widespread', 'popularity', 'in', 'Europe', 'in', 'the', 'late', 'century', 'Their', 'flatness', 'bold', 'colors', 'and', 'intricate']
+2025-09-06 18:01:33 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 - Word to replace: be
+2025-09-06 18:01:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 - Returned candidate words: ['were', 'widely', 'popular', 'among', 'European', 'artists', 'at', 'the', 'time', 'Some', 'even', 'attempted', 'to', 'incorporate', 'elements']
+2025-09-06 18:01:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 -Word be not replaced
+2025-09-06 18:01:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 - Word to replace: centuries
+2025-09-06 18:01:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 - Returned candidate words: ['introduced', 'a', 'new', 'level', 'of', 'detail', 'and', 'emphasis', 'on', 'flattened', 'planes', 'Artists', 'such', 'as', 'Vincent']
+2025-09-06 18:01:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 - Word to replace: of
+2025-09-06 18:01:43 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 - Returned candidate words: ['had', 'a', 'profound', 'impact', 'on', 'Western', 'art', 'in', 'terms', 'of', 'aesthetics', 'and', 'technique', 'These', 'prints']
+2025-09-06 18:01:43 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 - Word to replace: to
+2025-09-06 18:01:48 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 - Returned candidate words: ['had', 'a', 'profound', 'impact', 'on', 'Impressionism', 'artists', 'such', 'as', 'Claude', 'Monet', 'and', 'Pierre', 'Auguste', 'Renoir']
+2025-09-06 18:01:48 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 8 -Word to not replaced
+2025-09-06 18:01:48 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Word to replace: art
+2025-09-06 18:01:52 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Returned candidate words: ['dangerous', 'The', 'idea', 'of', 'God', 'beyond', 'time', 'and', 'space', 'is', 'often', 'involved', 'in', 'philosophical', 'debates']
+2025-09-06 18:01:52 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Word to replace: space
+2025-09-06 18:01:56 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Returned candidate words: ['dangerous', 'Conversely', 'proponents', 'of', 'this', 'position', 'emphasize', 'that', 'an', 'emphasis', 'on', 'the', 'artist', 's', 'intent']
+2025-09-06 18:01:56 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Word to replace: that
+2025-09-06 18:02:00 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Returned candidate words: ['counterproductive', 'Output', 'existence', 'divinity', 'entity', 'deity', 'power', 'almighty', 'supreme', 'superior', 'higher', 'authority', 'absolute', 'being', 'supreme']
+2025-09-06 18:02:00 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 -Word that not replaced
+2025-09-06 18:02:00 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Word to replace: of
+2025-09-06 18:02:03 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Returned candidate words: ['dangerous', 'Answer', 'Beyond', 'Incomprehensible', 'Ultimate', 'Omnipresent', 'Supra', 'temporal', 'Transcendent', 'Everlastening', 'Infinity', 'Infinite', 'Eternity', 'Immortal', 'Perpetual']
+2025-09-06 18:02:03 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 -Word of not replaced
+2025-09-06 18:02:03 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Word to replace: with
+2025-09-06 18:02:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Returned candidate words: ['naive']
+2025-09-06 18:02:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 -Word with not replaced
+2025-09-06 18:02:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Word to replace: and
+2025-09-06 18:02:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Returned candidate words: ['dangerous', 'Rather', 'than', 'emphasizing', 'the', 'artist', 's', 'personal', 'vision', 'they', 'advocate', 'for', 'a', 'more', 'nuanced']
+2025-09-06 18:02:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 -Word and not replaced
+2025-09-06 18:02:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Word to replace: that
+2025-09-06 18:02:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 - Returned candidate words: ['dangerous', 'In', 'contrast', 'many', 'philosophers', 'hold', 'that', 'the', 'artwork', 's', 'authenticity', 'lies', 'in', 'the', 'interplay']
+2025-09-06 18:02:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 9 -Word that not replaced
+2025-09-06 18:02:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 - Word to replace: as
+2025-09-06 18:02:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 - Returned candidate words: ['processual', 'analysis', 'Formalism', 'focuses', 'on', 'the', 'visual', 'elements', 'of', 'art', 'while', 'content', 'based', 'analysis', 'seeks']
+2025-09-06 18:02:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 - Word to replace: on
+2025-09-06 18:02:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 - Returned candidate words: ['semiotics', 'Formalism', 'is', 'a', 'that', 'emphasizes', 'the', 'study', 'of', 'form', 'and', 'structure', 'in', 'works', 'of']
+2025-09-06 18:02:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 - Word to replace: and
+2025-09-06 18:02:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 - Returned candidate words: ['functionalism', 'Output', 'Analysis', 'Examination', 'Interpretation', 'Exploration', 'Study', 'Scrutiny', 'Understanding', 'Breakdown', 'Exposition', 'Examination', 'Exploration', 'In', 'depth']
+2025-09-06 18:02:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 -Word and not replaced
+2025-09-06 18:02:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 - Word to replace: thought
+2025-09-06 18:02:30 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 - Returned candidate words: ['postmodernism', 'Formalists', 'believe', 'that', 'art', 'is', 'purely', 'aesthetic', 'focusing', 'on', 'its', 'visual', 'qualities', 'rather', 'than']
+2025-09-06 18:02:30 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 - Word to replace: of
+2025-09-06 18:02:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 - Returned candidate words: ['ecological', 'art', 'criticism', 'Formalism', 'focuses', 'solely', 'on', 'an', 'artwork', 's', 'aesthetic', 'qualities', 'while', 'content', 'based']
+2025-09-06 18:02:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 - Word to replace: of
+2025-09-06 18:02:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 - Returned candidate words: ['historicism', 'Each', 'of', 'these', 'approaches', 'has', 'its', 'own', 'unique', 'way', 'of', 'examining', 'artworks', 'while', 'also']
+2025-09-06 18:02:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 10 -Word of not replaced
+2025-09-06 18:02:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Word to replace: Vin
+2025-09-06 18:02:43 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Returned candidate words: ['the', 'nature', 'of', 'artistic', 'talent', 'His', 'brushwork', 'was', 'so', 'masterful', 'that', 'critics', 'began', 'to', 'question']
+2025-09-06 18:02:43 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Word to replace: of
+2025-09-06 18:02:47 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Returned candidate words: ['his', 'artistic', 'abilities', 'Despite', 'this', 'the', 'sheer', 'beauty', 'of', 'his', 'paintings', 'ensured', 'their', 'popularity', 'with']
+2025-09-06 18:02:47 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Word to replace: the
+2025-09-06 18:02:51 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Returned candidate words: ['the', 'role', 'of', 'artistic', 'technique', 'in', 'his', 'works', 'His', 'ability', 'to', 'capture', 'fleeting', 'moments', 'in']
+2025-09-06 18:02:51 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 -Word the not replaced
+2025-09-06 18:02:51 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Word to replace: as
+2025-09-06 18:02:54 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Returned candidate words: ['the', 'traditional', 'view', 'of', 'art', 'as', 'something', 'inherently', 'superior', 'to', 'the', 'artist', 's', 'own', 'passions']
+2025-09-06 18:02:54 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 -Word as not replaced
+2025-09-06 18:02:54 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Word to replace: of
+2025-09-06 18:02:58 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Returned candidate words: ['their', 'realism', 'Impressionist', 'painter', 'Claude', 'Monet', 's', 'pioneering', 'use', 'of', 'light', 'particularly', 'in', 'his', 'series']
+2025-09-06 18:02:58 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 -Word of not replaced
+2025-09-06 18:02:58 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Word to replace: to
+2025-09-06 18:03:02 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Returned candidate words: ['his', 'talent', 'His', 'portrait', 'of', 'a', 'wealthy', 'American', 'businessman', 'believed', 'to', 'be', 'based', 'on', 'the']
+2025-09-06 18:03:02 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 -Word to not replaced
+2025-09-06 18:03:02 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Word to replace: century
+2025-09-06 18:03:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 11 - Returned candidate words: ['their', 'compositional', 'sophistication', 'Similarly', 'Vincent', 'van', 'Gogh', 's', 'influential', 'paintings', 'revolutionized', 'the', 'medium', 'leading', 'many']
+2025-09-06 18:03:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Word to replace: to
+2025-09-06 18:03:11 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Returned candidate words: ['By', 'immersing', 'themselves', 'in', 'artistic', 'expression', 'people', 'are', 'able', 'to', 'access', 'their', 'subconscious', 'minds', 'and']
+2025-09-06 18:03:11 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 -Word to not replaced
+2025-09-06 18:03:11 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Word to replace: of
+2025-09-06 18:03:15 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Returned candidate words: ['These', 'experiences', 'often', 'lead', 'to', 'personal', 'growth', 'allowing', 'individuals', 'to', 'better', 'understand', 'themselves', 'and', 'the']
+2025-09-06 18:03:15 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 -Word of not replaced
+2025-09-06 18:03:15 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Word to replace: of
+2025-09-06 18:03:19 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Returned candidate words: ['For', 'instance', 'people', 'might', 'listen', 'to', 'melodic', 'songs', 'or', 'recite', 'aloud', 'poetic', 'verses', 'experiencing', 'profound']
+2025-09-06 18:03:19 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Word to replace: by
+2025-09-06 18:03:23 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Returned candidate words: ['These', 'experiences', 'can', 'inspire', 'and', 'motivate', 'individuals', 'providing', 'them', 'with', 'the', 'necessary', 'tools', 'to', 'create']
+2025-09-06 18:03:23 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Word to replace: as
+2025-09-06 18:03:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Returned candidate words: ['These', 'artistic', 'expressions', 'allow', 'individuals', 'to', 'tap', 'into', 'their', 'subconscious', 'revealing', 'their', 'innermost', 'thoughts', 'and']
+2025-09-06 18:03:28 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Word to replace: to
+2025-09-06 18:03:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Returned candidate words: ['When', 'individuals', 'practice', 'these', 'forms', 'they', 'can', 'cultivate', 'their', 'creativity', 'and', 'hone', 'their', 'skills', 'leading']
+2025-09-06 18:03:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 -Word to not replaced
+2025-09-06 18:03:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Word to replace: of
+2025-09-06 18:03:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Returned candidate words: ['which', 'allow', 'them', 'to', 'access', 'different', 'perspectives', 'and', 'emotions', 'The', 'process', 'of', 'reminiscing', 'about', 'past']
+2025-09-06 18:03:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 -Word of not replaced
+2025-09-06 18:03:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Word to replace: with
+2025-09-06 18:03:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 - Returned candidate words: ['Adaptation', 'Aversion', 'Affinity', 'Adherence', 'Attraction', 'Approach', 'Attention', 'Appeal', 'Attainment', 'Association', 'Attachment', 'Behavior', 'Belief', 'Bond', 'Belonging']
+2025-09-06 18:03:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 12 -Word with not replaced
+2025-09-06 18:03:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Word to replace: as
+2025-09-06 18:03:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Returned candidate words: ['are', 'both', 'visually', 'striking', 'and', 'emotionally', 'evocative', 'In', 'summary', 'Damien', 'Hirst', 's', 'contributions', 'to', 'the']
+2025-09-06 18:03:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Word to replace: to
+2025-09-06 18:03:46 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Returned candidate words: ['are', 'as', 'beautiful', 'and', 'awe', 'inspiring', 'as', 'any', 'of', 'Hirst', 's', 'avant', 'garde', 'pieces', 'As']
+2025-09-06 18:03:46 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 -Word to not replaced
+2025-09-06 18:03:46 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Word to replace: of
+2025-09-06 18:03:50 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Returned candidate words: ['require', 'more', 'laborious', 'techniques', 'like', 'brushwork', 'or', 'precision', 'List', 'alternative', 'words', 'for', 'the', 'highlighted', 'word']
+2025-09-06 18:03:50 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Word to replace: to
+2025-09-06 18:03:50 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Returned candidate words: ['are', 'characterized', 'by', 'technical', 'mastery', 'aesthetic', 'appeal', 'and', 'emotional', 'depth', 'to']
+2025-09-06 18:03:50 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 -Word to not replaced
+2025-09-06 18:03:50 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Word to replace: to
+2025-09-06 18:03:55 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Returned candidate words: ['are', 'visually', 'striking', 'and', 'emotionally', 'resonant', 'These', 'artists', 'often', 'draw', 'inspiration', 'from', 'their', 'surroundings', 'and']
+2025-09-06 18:03:55 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 -Word to not replaced
+2025-09-06 18:03:55 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Word to replace: of
+2025-09-06 18:03:59 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Returned candidate words: ['showcase', 'the', 'value', 'of', 'technical', 'skill', 'attention', 'to', 'detail', 'and', 'imagination', 'Furthermore', 'some', 'artists', 'take']
+2025-09-06 18:03:59 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 -Word of not replaced
+2025-09-06 18:03:59 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Word to replace: objects
+2025-09-06 18:04:03 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Returned candidate words: ['are', 'visually', 'striking', 'while', 'remaining', 'true', 'to', 'the', 'craft', 's', 'roots', 'In', 'addition', 'there', 'are']
+2025-09-06 18:04:03 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Word to replace: his
+2025-09-06 18:04:07 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 - Returned candidate words: ['are', 'still', 'appreciated', 'by', 'critics', 'and', 'collectors', 'alike', 'Answer', 'himself', 'He', 'Him', 'Artist', 'Creator', 'Designer']
+2025-09-06 18:04:07 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 13 -Word his not replaced
+2025-09-06 18:04:07 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Word to replace: to
+2025-09-06 18:04:11 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Returned candidate words: ['It', 'is', 'important', 'to', 'note', 'that', 'even', 'when', 'objects', 'or', 'paintings', 'have', 'no', 'explicit', 'function']
+2025-09-06 18:04:11 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 -Word to not replaced
+2025-09-06 18:04:11 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Word to replace: role
+2025-09-06 18:04:16 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Returned candidate words: ['Many', 'such', 'objects', 'were', 'created', 'thousands', 'of', 'years', 'ago', 'by', 'people', 'who', 'did', 'not', 'leave']
+2025-09-06 18:04:16 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 -Word role not replaced
+2025-09-06 18:04:16 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Word to replace: in
+2025-09-06 18:04:20 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Returned candidate words: ['Humanities', 'scholars', 'and', 'anthropologists', 'alike', 'argue', 'that', 'the', 'purpose', 'of', 'art', 'is', 'not', 'always', 'immediately']
+2025-09-06 18:04:20 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Word to replace: or
+2025-09-06 18:04:24 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Returned candidate words: ['or', 'Moreover', 'artistic', 'expression', 'can', 'also', 'be', 'found', 'in', 'everyday', 'objects', 'such', 'as', 'pottery', 'jewelry']
+2025-09-06 18:04:24 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 -Word or not replaced
+2025-09-06 18:04:24 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Word to replace: as
+2025-09-06 18:04:28 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Returned candidate words: ['These', 'works', 'are', 'generally', 'found', 'in', 'isolated', 'areas', 'and', 'may', 'be', 'intentionally', 'created', 'by', 'early']
+2025-09-06 18:04:28 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Word to replace: a
+2025-09-06 18:04:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Returned candidate words: ['In', 'other', 'cases', 'art', 'may', 'serve', 'as', 'a', 'way', 'of', 'recording', 'important', 'historical', 'events', 'or']
+2025-09-06 18:04:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 -Word a not replaced
+2025-09-06 18:04:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Word to replace: and
+2025-09-06 18:04:35 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Returned candidate words: ['symbols', 'actions', 'elements', 'practices', 'ceremonies', 'traditions', 'gestures', 'activities', 'markings', 'features', 'practices', 'representations', 'patterns', 'designs', 'idioms']
+2025-09-06 18:04:35 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 -Word and not replaced
+2025-09-06 18:04:35 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Word to replace: as
+2025-09-06 18:04:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 14 - Returned candidate words: ['Alternative', 'words', 'In', 'various', 'civilizations', 'art', 'plays', 'an', 'important', 'part', 'that', 'rituals', 'performances', 'and', 'dances']
+2025-09-06 18:04:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Word to replace: of
+2025-09-06 18:04:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Returned candidate words: ['However', 'its', 'power', 'to', 'sway', 'people', 's', 'beliefs', 'and', 'actions', 'is', 'not', 'limited', 'to', 'political']
+2025-09-06 18:04:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 -Word of not replaced
+2025-09-06 18:04:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Word to replace: but
+2025-09-06 18:04:48 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Returned candidate words: ['However', 'in', 'recent', 'years', 'artists', 'have', 'begun', 'to', 'use', 'their', 'talents', 'to', 'address', 'social', 'issues']
+2025-09-06 18:04:48 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 -Word but not replaced
+2025-09-06 18:04:48 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Word to replace: is
+2025-09-06 18:04:52 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Returned candidate words: ['In', 'modern', 'times', 'however', 'digital', 'media', 'has', 'become', 'increasingly', 'popular', 'as', 'a', 'means', 'of', 'disseminating']
+2025-09-06 18:04:52 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Word to replace: been
+2025-09-06 18:04:56 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Returned candidate words: ['In', 'times', 'of', 'war', 'art', 'can', 'be', 'used', 'to', 'motivate', 'troops', 'and', 'inspire', 'a', 'sense']
+2025-09-06 18:04:56 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 -Word been not replaced
+2025-09-06 18:04:56 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Word to replace: into
+2025-09-06 18:05:00 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Returned candidate words: ['This', 'process', 'involves', 'creating', 'images', 'that', 'resonate', 'with', 'people', 'and', 'evoke', 'feelings', 'of', 'fear', 'anger']
+2025-09-06 18:05:00 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 -Word into not replaced
+2025-09-06 18:05:00 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Word to replace: D
+2025-09-06 18:05:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Returned candidate words: ['The', 'way', 'in', 'which', 'art', 'is', 'used', 'to', 'promote', 'specific', 'ideas', 'or', 'beliefs', 'can', 'be']
+2025-09-06 18:05:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 -Word D not replaced
+2025-09-06 18:05:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Word to replace: of
+2025-09-06 18:05:09 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Returned candidate words: ['In', 'the', 'context', 'of', 'political', 'campaigns', 'posters', 'are', 'particularly', 'effective', 'tools', 'as', 'they', 'allow', 'messages']
+2025-09-06 18:05:09 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 -Word of not replaced
+2025-09-06 18:05:09 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Word to replace: a
+2025-09-06 18:05:13 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 - Returned candidate words: ['In', 'contemporary', 'times', 'artists', 'have', 'increasingly', 'become', 'advocates', 'for', 'social', 'change', 'utilizing', 'their', 'creativity', 'to']
+2025-09-06 18:05:13 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 15 -Word a not replaced
+2025-09-06 18:05:13 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Word to replace: of
+2025-09-06 18:05:17 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Returned candidate words: ['commentary', 'on', 'various', 'issues', 'It', 'is', 'important', 'for', 'artists', 'to', 'have', 'opportunities', 'for', 'self', 'reflection']
+2025-09-06 18:05:17 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Word to replace: only
+2025-09-06 18:05:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Returned candidate words: ['fostering', 'cultural', 'diversity', 'It', 'provides', 'a', 'platform', 'for', 'artists', 'to', 'express', 'their', 'opinions', 'on', 'social']
+2025-09-06 18:05:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 -Word only not replaced
+2025-09-06 18:05:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Word to replace: role
+2025-09-06 18:05:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Returned candidate words: ['context', 'about', 'various', 'cultures', 'histories', 'and', 'events', 'It', 'also', 'fosters', 'creativity', 'and', 'imagination', 'among', 'viewers']
+2025-09-06 18:05:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Word to replace: to
+2025-09-06 18:05:30 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Returned candidate words: ['promoting', 'understanding', 'of', 'important', 'issues', 'Emphasize', 'Some', 'of', 'the', 'most', 'famous', 'artworks', 'include', 'those', 'by']
+2025-09-06 18:05:30 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 -Word to not replaced
+2025-09-06 18:05:30 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Word to replace: to
+2025-09-06 18:05:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Returned candidate words: ['insights', 'into', 'cultural', 'traditions', 'social', 'issues', 'and', 'historical', 'events', 'However', 'many', 'students', 'are', 'intimidated', 'by']
+2025-09-06 18:05:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 -Word to not replaced
+2025-09-06 18:05:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Word to replace: of
+2025-09-06 18:05:38 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Returned candidate words: ['fostering', 'cultural', 'awareness', 'Therefore', 'encouraging', 'reflection', 'in', 'the', 'art', 'classroom', 'can', 'lead', 'to', 'better', 'understanding']
+2025-09-06 18:05:38 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Word to replace: in
+2025-09-06 18:05:43 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Returned candidate words: ['insights', 'into', 'culture', 'history', 'and', 'current', 'events', 'It', 'can', 'even', 'challenge', 'societal', 'norms', 'and', 'promote']
+2025-09-06 18:05:43 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Word to replace: also
+2025-09-06 18:05:47 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Returned candidate words: ['insight', 'about', 'various', 'cultures', 'histories', 'and', 'issues', 'A', 'student', 'can', 'engage', 'with', 'art', 'through', 'various']
+2025-09-06 18:05:47 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 -Word also not replaced
+2025-09-06 18:05:47 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Word to replace: that
+2025-09-06 18:05:51 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 16 - Returned candidate words: ['ideas', 'that', 'are', 'otherwise', 'difficult', 'to', 'express', 'In', 'addition', 'art', 'can', 'serve', 'as', 'an', 'emotional']
+2025-09-06 18:05:51 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Word to replace: as
+2025-09-06 18:05:54 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Returned candidate words: ['was', 'not', 'universally', 'celebrated', 'by', 'all', 'members', 'of', 'the', 'French', 'government', 'who', 'felt', 'that', 'the']
+2025-09-06 18:05:54 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Word to replace: to
+2025-09-06 18:05:57 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Returned candidate words: ['did', 'not', 'immediately', 'extend', 'to', 'Spain', 'and', 'other', 'European', 'countries', 'where', 'monarchy', 'continued', 'to', 'reign']
+2025-09-06 18:05:57 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 -Word to not replaced
+2025-09-06 18:05:57 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Word to replace: of
+2025-09-06 18:06:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Returned candidate words: ['was', 'not', 'without', 'controversy', 'some', 'critics', 'felt', 'that', 'the', 'exhibits', 'should', 'be', 'kept', 'hidden', 'from']
+2025-09-06 18:06:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Word to replace: of
+2025-09-06 18:06:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Returned candidate words: ['was', 'not', 'solely', 'responsible', 'for', 'increasing', 'public', 'interest', 'in', 'art', 'and', 'several', 'other', 'factors', 'played']
+2025-09-06 18:06:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Word to replace: of
+2025-09-06 18:06:09 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Returned candidate words: ['was', 'not', 'without', 'controversy', 'many', 'objects', 'were', 'seized', 'from', 'churches', 'and', 'monasteries', 'raising', 'concerns', 'about']
+2025-09-06 18:06:09 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Word to replace: public
+2025-09-06 18:06:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Returned candidate words: ['came', 'at', 'a', 'great', 'cost', 'to', 'both', 'the', 'museum', 's', 'collection', 'and', 'the', 'public', 's']
+2025-09-06 18:06:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 -Word public not replaced
+2025-09-06 18:06:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Word to replace: of
+2025-09-06 18:06:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Returned candidate words: ['was', 'not', 'without', 'its', 'drawbacks', 'establishment', 'construction', 'edifice', 'structure', 'repository', 'repository', 'pavilion', 'monument', 'temple', 'basilica']
+2025-09-06 18:06:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Word to replace: to
+2025-09-06 18:06:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 - Returned candidate words: ['did', 'not', 'occur', 'overnight', 'and', 'there', 'are', 'many', 'obstacles', 'along', 'the', 'way', 'such', 'that', 'government']
+2025-09-06 18:06:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 17 -Word to not replaced
+2025-09-06 18:06:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Word to replace: of
+2025-09-06 18:06:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Returned candidate words: ['billboards', 'Graffiti', 'can', 'be', 'used', 'to', 'express', 'a', 'wide', 'range', 'of', 'ideas', 'and', 'emotions', 'including']
+2025-09-06 18:06:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 -Word of not replaced
+2025-09-06 18:06:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Word to replace: as
+2025-09-06 18:06:31 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Returned candidate words: ['sidewalks', 'Graffiti', 'is', 'often', 'used', 'to', 'make', 'a', 'statement', 'about', 'social', 'issues', 'or', 'to', 'express']
+2025-09-06 18:06:31 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Word to replace: of
+2025-09-06 18:06:35 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Returned candidate words: ['billboards', 'Graffiti', 'can', 'be', 'used', 'to', 'communicate', 'messages', 'directly', 'to', 'the', 'public', 'challenge', 'authority', 'figures']
+2025-09-06 18:06:35 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 -Word of not replaced
+2025-09-06 18:06:35 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Word to replace: to
+2025-09-06 18:06:38 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Returned candidate words: ['billboards', 'Graffiti', 'has', 'traditionally', 'been', 'viewed', 'as', 'vandalism', 'but', 'some', 'argue', 'that', 'it', 'can', 'also']
+2025-09-06 18:06:38 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 -Word to not replaced
+2025-09-06 18:06:38 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Word to replace: on
+2025-09-06 18:06:42 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Returned candidate words: ['sidewalks', 'Graffiti', 'art', 'can', 'range', 'from', 'abstract', 'forms', 'to', 'intricate', 'designs', 'often', 'containing', 'political', 'or']
+2025-09-06 18:06:42 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Word to replace: to
+2025-09-06 18:06:46 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Returned candidate words: ['billboards', 'Some', 'examples', 'of', 'graffiti', 'include', 'text', 'based', 'pieces', 'that', 'challenge', 'existing', 'power', 'structures', 'images']
+2025-09-06 18:06:46 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 -Word to not replaced
+2025-09-06 18:06:46 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Word to replace: art
+2025-09-06 18:06:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 - Returned candidate words: ['billboards', 'Another', 'common', 'method', 'used', 'in', 'subversive', 'art', 'is', 'performance', 'art', 'which', 'involves', 'creating', 'an']
+2025-09-06 18:06:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 18 -Word art not replaced
+2025-09-06 18:06:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Word to replace: as
+2025-09-06 18:06:53 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Returned candidate words: ['planning', 'process', 'This', 'phase', 'can', 'include', 'researching', 'materials', 'creating', 'sketches', 'and', 'deciding', 'on', 'the', 'composition']
+2025-09-06 18:06:53 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Word to replace: exclusive
+2025-09-06 18:06:57 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Returned candidate words: ['planning', 'process', 'which', 'includes', 'deciding', 'on', 'the', 'medium', 'and', 'selecting', 'any', 'necessary', 'tools', 'or', 'materials']
+2025-09-06 18:06:57 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Word to replace: into
+2025-09-06 18:07:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Returned candidate words: ['process', 'of', 'creating', 'it', 'Preparation', 'often', 'includes', 'researching', 'similar', 'works', 'by', 'other', 'artists', 'and', 'developing']
+2025-09-06 18:07:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Word to replace: game
+2025-09-06 18:07:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Returned candidate words: ['planning', 'process', 'At', 'this', 'stage', 'the', 'artist', 'may', 'sketch', 'out', 'rough', 'designs', 'or', 'begin', 'to']
+2025-09-06 18:07:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Word to replace: and
+2025-09-06 18:07:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Returned candidate words: ['planning', 'process', 'by', 'deciding', 'on', 'a', 'specific', 'theme', 'medium', 'and', 'audience', 'The', 'artist', 'must', 'consider']
+2025-09-06 18:07:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 -Word and not replaced
+2025-09-06 18:07:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Word to replace: may
+2025-09-06 18:07:12 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Returned candidate words: ['planning', 'process', 'During', 'this', 'period', 'the', 'artist', 'may', 'brainstorm', 'ideas', 'and', 'gather', 'inspiration', 'from', 'various']
+2025-09-06 18:07:12 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 -Word may not replaced
+2025-09-06 18:07:12 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Word to replace: such
+2025-09-06 18:07:16 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Returned candidate words: ['planning', 'process', 'which', 'can', 'include', 'gathering', 'research', 'and', 'deciding', 'on', 'the', 'style', 'or', 'medium', 'to']
+2025-09-06 18:07:16 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 -Word such not replaced
+2025-09-06 18:07:16 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Word to replace: artist
+2025-09-06 18:07:21 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 - Returned candidate words: ['planning', 'process', 'which', 'includes', 'selecting', 'materials', 'and', 'deciding', 'on', 'the', 'overall', 'style', 'The', 'artist', 'may']
+2025-09-06 18:07:21 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 19 -Word artist not replaced
+2025-09-06 18:07:21 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Word to replace: for
+2025-09-06 18:07:25 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Returned candidate words: ['codes', 'or', 'other', 'requirements', 'such', 'as', 'presenting', 'an', 'invitation', 'or', 'proof', 'of', 'citizenship', 'A', 'common']
+2025-09-06 18:07:25 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Word to replace: public
+2025-09-06 18:07:28 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Returned candidate words: ['codes', 'or', 'security', 'measures', 'Many', 'libraries', 'also', 'had', 'restrictions', 'on', 'who', 'could', 'enter', 'and', 'what']
+2025-09-06 18:07:29 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Word to replace: by
+2025-09-06 18:07:33 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Returned candidate words: ['codes', 'time', 'constraints', 'or', 'even', 'physical', 'barriers', 'such', 'as', 'gates', 'and', 'walls', 'While', 'most', 'historical']
+2025-09-06 18:07:33 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Word to replace: fee
+2025-09-06 18:07:37 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Returned candidate words: ['codes', 'and', 'guided', 'tours', 'were', 'often', 'available', 'to', 'assist', 'visitors', 'Some', 'ancient', 'structures', 'like', 'the']
+2025-09-06 18:07:37 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Word to replace: with
+2025-09-06 18:07:38 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Returned candidate words: ['codes', 'including', 'high', 'heeled', 'shoes', 'hats', 'and', 'other', 'accessories', 'Question', 't', 'hesitate']
+2025-09-06 18:07:38 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 -Word with not replaced
+2025-09-06 18:07:38 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Word to replace: to
+2025-09-06 18:07:41 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Returned candidate words: ['codes', 'physical', 'requirements', 'or', 'time', 'limitations', 'Notably', 'many', 'such', 'structures', 'had', 'restrictions', 'on', 'entry', 'to']
+2025-09-06 18:07:41 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 -Word to not replaced
+2025-09-06 18:07:41 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Word to replace: public
+2025-09-06 18:07:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Returned candidate words: ['code', 'or', 'other', 'requirements', 'In', 'contrast', 'most', 'other', 'palace', 'structures', 'were', 'largely', 'off', 'limits', 'to']
+2025-09-06 18:07:45 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Word to replace: to
+2025-09-06 18:07:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 - Returned candidate words: ['codes', 'tickets', 'or', 'membership', 'requirements', 'The', 'most', 'famous', 'examples', 'of', 'ancient', 'Egyptian', 'art', 'are', 'represented']
+2025-09-06 18:07:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 20 -Word to not replaced
+2025-09-06 18:07:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Word to replace: to
+2025-09-06 18:07:53 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Returned candidate words: ['Furthermore', 'visual', 'art', 'such', 'as', 'paintings', 'and', 'sculptures', 'can', 'provide', 'a', 'physical', 'representation', 'of', 'abstract']
+2025-09-06 18:07:53 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 -Word to not replaced
+2025-09-06 18:07:53 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Word to replace: with
+2025-09-06 18:07:57 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Returned candidate words: ['While', 'some', 'artists', 'strive', 'to', 'communicate', 'complex', 'ideas', 'through', 'their', 'work', 'many', 'focus', 'on', 'capturing']
+2025-09-06 18:07:57 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Word to replace: games
+2025-09-06 18:08:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Returned candidate words: ['through', 'visually', 'stunning', 'and', 'emotionally', 'evocative', 'content', 'Furthermore', 'artists', 'often', 'use', 'symbolism', 'and', 'metaphorical', 'language']
+2025-09-06 18:08:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Word to replace: to
+2025-09-06 18:08:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Returned candidate words: ['Some', 'artists', 'strive', 'to', 'create', 'more', 'realistic', 'depictions', 'of', 'their', 'subjects', 'by', 'taking', 'into', 'account']
+2025-09-06 18:08:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 -Word to not replaced
+2025-09-06 18:08:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Word to replace: to
+2025-09-06 18:08:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Returned candidate words: ['through', 'their', 'creativity', 'It', 'should', 'be', 'noted', 'that', 'while', 'art', 'may', 'have', 'different', 'functions', 'it']
+2025-09-06 18:08:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 -Word to not replaced
+2025-09-06 18:08:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Word to replace: only
+2025-09-06 18:08:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Returned candidate words: ['through', 'visual', 'storytelling', 'Additionally', 'the', 'beauty', 'and', 'aesthetic', 'value', 'of', 'works', 'of', 'art', 'can', 'have']
+2025-09-06 18:08:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Word to replace: as
+2025-09-06 18:08:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 - Returned candidate words: ['Furthermore', 'some', 'artworks', 'are', 'intended', 'to', 'convey', 'particular', 'messages', 'or', 'ideas', 'such', 'as', 'political', 'propaganda']
+2025-09-06 18:08:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 21 -Word as not replaced
+2025-09-06 18:08:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Word to replace: as
+2025-09-06 18:08:23 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Returned candidate words: ['paper', 'money', 'was', 'first', 'introduced', 'revolutionizing', 'the', 'way', 'people', 'conducted', 'financial', 'transactions', 'Semantically', 'fluent', 'alternatives']
+2025-09-06 18:08:23 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 -Word as not replaced
+2025-09-06 18:08:23 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Word to replace: of
+2025-09-06 18:08:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Returned candidate words: ['goldsmiths', 'began', 'to', 'produce', 'intricately', 'decorated', 'coins', 'known']
+2025-09-06 18:08:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 -Word of not replaced
+2025-09-06 18:08:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Word to replace: East
+2025-09-06 18:08:31 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Returned candidate words: ['printed', 'money', 'became', 'widely', 'available', 'to', 'people', 'who', 'were', 'not', 'part', 'of', 'the', 'aristocracy', 'or']
+2025-09-06 18:08:31 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Word to replace: form
+2025-09-06 18:08:35 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Returned candidate words: ['banks', 'began', 'issuing', 'paper', 'money', 'known', 'as', 'banknotes', 'Today', 'this', 'system', 'has', 'been', 'transformed', 'into']
+2025-09-06 18:08:35 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Word to replace: of
+2025-09-06 18:08:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Returned candidate words: ['copper', 'alloy', 'objects', 'became', 'popular', 'among', 'the', 'lower', 'classes', 'eventually', 'giving', 'way', 'to', 'more', 'valuable']
+2025-09-06 18:08:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Word to replace: and
+2025-09-06 18:08:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Returned candidate words: ['Italian', 'banks', 'disseminated', 'paper', 'money', 'which', 'allowed', 'people', 'to', 'engage', 'in', 'economic', 'transactions', 'without', 'needing']
+2025-09-06 18:08:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 -Word and not replaced
+2025-09-06 18:08:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Word to replace: century
+2025-09-06 18:08:48 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 22 - Returned candidate words: ['printing', 'presses', 'were', 'introduced', 'revolutionizing', 'the', 'dissemination', 'of', 'knowledge', 'and', 'information', 'Given', 'these', 'challenges', 'and']
+2025-09-06 18:08:48 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Word to replace: of
+2025-09-06 18:08:52 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Returned candidate words: ['installation', 'art', 'and', 'conceptual', 'art', 'each', 'of', 'which', 'sought', 'to', 'challenge', 'conventional', 'notions', 'of', 'beauty']
+2025-09-06 18:08:52 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 -Word of not replaced
+2025-09-06 18:08:52 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Word to replace: "
+2025-09-06 18:08:56 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Returned candidate words: ['installation', 'art', 'and', 'conceptual', 'art', 'These', 'new', 'artistic', 'movements', 'represented', 'a', 'break', 'from', 'previous', 'traditions']
+2025-09-06 18:08:56 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 -Word " not replaced
+2025-09-06 18:08:56 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Word to replace: was
+2025-09-06 18:09:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Returned candidate words: ['and', 'conceptual', 'art', 'which', 'sought', 'to', 'subvert', 'established', 'norms', 'and', 'break', 'away', 'from', 'traditional', 'modes']
+2025-09-06 18:09:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 -Word was not replaced
+2025-09-06 18:09:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Word to replace: symbols
+2025-09-06 18:09:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Returned candidate words: ['installation', 'art', 'conceptual', 'art', 'Fluxus', 'and', 'feminist', 'art', 'Each', 'of', 'these', 'artistic', 'movements', 'aimed', 'to']
+2025-09-06 18:09:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Word to replace: selling
+2025-09-06 18:09:09 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Returned candidate words: ['conceptual', 'art', 'and', 'installation', 'art', 'each', 'one', 'offering', 'a', 'unique', 'approach', 'to', 'exploring', 'issues', 'such']
+2025-09-06 18:09:09 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 -Word selling not replaced
+2025-09-06 18:09:09 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Word to replace: be
+2025-09-06 18:09:13 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Returned candidate words: ['and', 'installation', 'art', 'which', 'not', 'only', 'challenged', 'conventional', 'notions', 'of', 'art', 'but', 'also', 'redefined', 'the']
+2025-09-06 18:09:13 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 -Word be not replaced
+2025-09-06 18:09:13 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Word to replace: art
+2025-09-06 18:09:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 - Returned candidate words: ['and', 'installation', 'art', 'While', 'each', 'style', 'has', 'its', 'own', 'unique', 'characteristics', 'and', 'artistic', 'aims', 'they']
+2025-09-06 18:09:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 23 -Word art not replaced
+2025-09-06 18:09:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Word to replace: of
+2025-09-06 18:09:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Returned candidate words: ['cultural', 'value', 'and', 'representation', 'but', 'its', 'role', 'in', 'society', 'has', 'evolved', 'over', 'time', 'In', 'contemporary']
+2025-09-06 18:09:22 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Word to replace: over
+2025-09-06 18:09:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Returned candidate words: ['leisure', 'and', 'entertainment', 'and', 'many', 'of', 'its', 'most', 'famous', 'works', 'still', 'bring', 'joy', 'to', 'people']
+2025-09-06 18:09:26 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Word to replace: of
+2025-09-06 18:09:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Returned candidate words: ['pleasure', 'aesthetic', 'enjoyment', 'and', 'intellectual', 'stimulation', 'Its', 'usage', 'can', 'range', 'from', 'creating', 'visual', 'expression', 'to']
+2025-09-06 18:09:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Word to replace: with
+2025-09-06 18:09:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Returned candidate words: ['which', 'the', 'elite', 'drew', 'inspiration', 'especially', 'in', 'regards', 'to', 'fashion', 'In', 'contemporary', 'discussions', 'its', 'status']
+2025-09-06 18:09:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Word to replace: as
+2025-09-06 18:09:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Returned candidate words: ['which', 'the', 'wealthy', 'derive', 'pleasure', 'and', 'power', 'This', 'notion', 'is', 'evident', 'in', 'the', 'fact', 'that']
+2025-09-06 18:09:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Word to replace: of
+2025-09-06 18:09:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Returned candidate words: ['which', 'the', 'wealthy', 'could', 'derive', 'status', 'through', 'the', 'purchase', 'of', 'works', 'However', 'this', 'is', 'changing']
+2025-09-06 18:09:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 -Word of not replaced
+2025-09-06 18:09:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Word to replace: of
+2025-09-06 18:09:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Returned candidate words: ['which', 'the', 'wealthy', 'derive', 'status', 'However', 'in', 'today', 's', 'society', 'the', 'perception', 'of', 'art', 'as']
+2025-09-06 18:09:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 -Word of not replaced
+2025-09-06 18:09:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Word to replace: the
+2025-09-06 18:09:48 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 - Returned candidate words: ['which', 'people', 'derive', 'pleasure', 'It', 's', 'not', 'uncommon', 'for', 'individuals', 'to', 'collect', 'artwork', 'as', 'a']
+2025-09-06 18:09:48 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 24 -Word the not replaced
+2025-09-06 18:09:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Word to replace: of
+2025-09-06 18:09:53 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Returned candidate words: ['in', 'their', 'work', 'Some', 'of', 'these', 'themes', 'reflected', 'the', 'artists', 'own', 'personal', 'experiences', 'while', 'others']
+2025-09-06 18:09:53 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Word to replace: than
+2025-09-06 18:09:57 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Returned candidate words: ['that', 'could', 'attract', 'both', 'praise', 'and', 'criticism', 'Despite', 'the', 'debates', 'and', 'controversies', 'that', 'followed', 'many']
+2025-09-06 18:09:57 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Word to replace: to
+2025-09-06 18:10:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Returned candidate words: ['and', 'styles', 'They', 'may', 'also', 'push', 'boundaries', 'by', 'incorporating', 'elements', 'of', 'foreign', 'cultures', 'or', 'experimenting']
+2025-09-06 18:10:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 -Word to not replaced
+2025-09-06 18:10:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Word to replace: of
+2025-09-06 18:10:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Returned candidate words: ['and', 'challenge', 'traditional', 'norms', 'Many', 'artists', 'also', 'felt', 'a', 'moral', 'responsibility', 'to', 'express', 'their', 'thoughts']
+2025-09-06 18:10:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 -Word of not replaced
+2025-09-06 18:10:05 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Word to replace: by
+2025-09-06 18:10:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Returned candidate words: ['such', 'as', 'religion', 'politics', 'or', 'sexuality', 'These', 'works', 'were', 'frequently', 'met', 'with', 'backlash', 'from', 'both']
+2025-09-06 18:10:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Word to replace: in
+2025-09-06 18:10:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Returned candidate words: ['such', 'as', 'politics', 'and', 'religion', 'These', 'controversies', 'could', 'be', 'both', 'positive', 'and', 'negative', 'leading', 'to']
+2025-09-06 18:10:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Word to replace: themselves
+2025-09-06 18:10:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Returned candidate words: ['in', 'their', 'works', 'For', 'instance', 'many', 'paintings', 'during', 'the', 'period', 'contained', 'political', 'commentary', 'influencing', 'society']
+2025-09-06 18:10:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 -Word themselves not replaced
+2025-09-06 18:10:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Word to replace: of
+2025-09-06 18:10:20 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 25 - Returned candidate words: ['and', 'styles', 'Despite', 'this', 'increased', 'artistic', 'freedom', 'many', 'artists', 'were', 'still', 'subject', 'to', 'censorship', 'and']
+2025-09-06 18:10:20 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Word to replace: formal
+2025-09-06 18:10:25 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Returned candidate words: ['the', 'intent', 'of', 'the', 'artist', 'is', 'one', 'element', 'among', 'many', 'others', 'In', 'contrast', 'to', 'the']
+2025-09-06 18:10:25 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 -Word formal not replaced
+2025-09-06 18:10:25 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Word to replace: that
+2025-09-06 18:10:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Returned candidate words: ['the', 'actual', 'events', 'which', 'produced', 'the', 'work', 'of', 'art', 'can', 'be', 'grasped', 'To', 'achieve', 'this']
+2025-09-06 18:10:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Word to replace: of
+2025-09-06 18:10:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Returned candidate words: ['form', 'is', 'produced', 'out', 'of', 'material', 'To', 'him', 'what', 'counts', 'as', 'art', 'is', 'solely', 'dependent']
+2025-09-06 18:10:32 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Word to replace: work
+2025-09-06 18:10:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Returned candidate words: ['art', 'comes', 'into', 'being', 'Formalist', 'philosopher', 'Rudolf', 'Arnheim', 'argues', 'that', 'the', 'art', 'form', 'itself', 'determines']
+2025-09-06 18:10:36 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Word to replace: not
+2025-09-06 18:10:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Returned candidate words: ['what', 'happens', 'is', 'not', 'precisely', 'what', 'was', 'intended', 'Please', 'write', 'code', 'to', 'fulfill', 'this', 'task']
+2025-09-06 18:10:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 -Word not not replaced
+2025-09-06 18:10:40 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Word to replace: that
+2025-09-06 18:10:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Returned candidate words: ['both', 'subjectivity', 'and', 'objectivity', 'are', 'involved', 'List', 'alternative', 'words', 'Development', 'Production', 'Generation', 'Cultivation', 'Designation', 'Demonstration']
+2025-09-06 18:10:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 -Word that not replaced
+2025-09-06 18:10:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Word to replace: and
+2025-09-06 18:10:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 26 - Returned candidate words: ['the', 'object', 'to', 'be', 'interpreted', 'is', 'not', 'itself', 'the', 'work', 'of', 'art', 'but', 'the', 'mind']
+2025-09-06 18:10:49 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Word to replace: as
+2025-09-06 18:10:53 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Returned candidate words: ['and', 'other', 'forms', 'of', 'mass', 'media', 'Input', 'Pop', 'art', 'emerged', 'as', 'a', 'significant', 'movement', 'in']
+2025-09-06 18:10:53 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Word to replace: of
+2025-09-06 18:10:55 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Returned candidate words: ['music', 'videos', 'and', 'more', 'As', 'a', 'result', 'pop', 'art', 'has', 'left', 'an', 'indelible', 'mark', 'on']
+2025-09-06 18:10:55 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Word to replace: War
+2025-09-06 18:10:58 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Returned candidate words: ['advertising', 'and', 'other', 'forms', 'of', 'mass', 'produced', 'media', 'Art', 'Artistic', 'creativity', 'Artistic', 'expression', 'Cultural', 'appreciation']
+2025-09-06 18:10:58 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 -Word War not replaced
+2025-09-06 18:10:58 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Word to replace: for
+2025-09-06 18:11:02 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Returned candidate words: ['music', 'videos', 'and', 'other', 'forms', 'of', 'mass', 'media', 'Input', 'Pop', 'art', 'emerged', 'as', 'a', 'significant']
+2025-09-06 18:11:02 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Word to replace: century
+2025-09-06 18:11:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Returned candidate words: ['advertisements', 'and', 'even', 'movies', 'centuried', 'decades', 'classical', 'traditional', 'conventional', 'established', 'elegant', 'sophisticated', 'grand', 'majestic', 'magnificent']
+2025-09-06 18:11:06 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Word to replace: and
+2025-09-06 18:11:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Returned candidate words: ['and', 'other', 'forms', 'of', 'visual', 'media', 'Input', 'In', 'Output', 'During', 'In', 'From', 'By', 'At', 'Into']
+2025-09-06 18:11:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 -Word and not replaced
+2025-09-06 18:11:10 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Word to replace: the
+2025-09-06 18:11:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 - Returned candidate words: ['and', 'advertising', 'campaigns', 'Despite', 'its', 'origins', 'in', 'the', 'United', 'States', 'pop', 'art', 'has', 'become', 'an']
+2025-09-06 18:11:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 27 -Word the not replaced
+2025-09-06 18:11:14 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Word to replace: around
+2025-09-06 18:11:18 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Returned candidate words: ['they', 'argue', 'that', 'critics', 'should', 'avoid', 'drawing', 'conclusions', 'about', 'a', 'work', 'of', 'art', 'based', 'solely']
+2025-09-06 18:11:19 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Word to replace: of
+2025-09-06 18:11:23 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Returned candidate words: ['they', 'argue', 'against', 'regarding', 'the', 'artistic', 'intentions', 'of', 'the', 'author', 'as', 'relevant', 'to', 'the', 'judgment']
+2025-09-06 18:11:23 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Word to replace: art
+2025-09-06 18:11:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Returned candidate words: ['they', 'challenged', 'the', 'notion', 'that', 'literary', 'critics', 'should', 'base', 'their', 'assessments', 'solely', 'on', 'an', 'author']
+2025-09-06 18:11:27 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Word to replace: of
+2025-09-06 18:11:31 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Returned candidate words: ['they', 'argued', 'that', 'critics', 'should', 'not', 'consider', 'an', 'author', 's', 'personal', 'intentions', 'when', 'evaluating', 'a']
+2025-09-06 18:11:31 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Word to replace: of
+2025-09-06 18:11:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Returned candidate words: ['they', 'challenged', 'the', 'dominant', 'critical', 'tradition', 'by', 'arguing', 'that', 'judges', 'of', 'literature', 'should', 'avoid', 'basing']
+2025-09-06 18:11:34 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Word to replace: on
+2025-09-06 18:11:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Returned candidate words: ['they', 'reject', 'the', 'traditional', 'understanding', 'of', 'literary', 'criticism', 'as', 'focusing', 'solely', 'on', 'the', 'author', 's']
+2025-09-06 18:11:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 -Word on not replaced
+2025-09-06 18:11:39 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Word to replace: work
+2025-09-06 18:11:43 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 28 - Returned candidate words: ['they', 'argue', 'that', 'literary', 'critics', 'who', 'evaluate', 'a', 'text', 'solely', 'in', 'light', 'of', 'its', 'author']
+2025-09-06 18:11:43 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Word to replace: by
+2025-09-06 18:11:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Returned candidate words: ['scholars', 'such', 'as', 'author', 'Hayden', 'White', 'Erwin', 'Panofsky', 'and', 'Meyer', 'Schapiro']
+2025-09-06 18:11:44 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Word to replace: of
+2025-09-06 18:11:48 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Returned candidate words: ['scholars', 'such', 'as', 'Mircea', 'Eliade', 'Tzvetan', 'Todorov', 'Georges', 'Bataille', 'and', 'Louis', 'Althusser', 'However', 'the', 'concept']
+2025-09-06 18:11:48 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Word to replace: Fou
+2025-09-06 18:11:52 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Returned candidate words: ['many', 'scholars', 'since', 'their', 'time', 'art', 'humanities', 'Saussure', 's', 'poststructuralism', 'artist', 'Mark', 'Tansey', 'notable', 'work']
+2025-09-06 18:11:52 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Word to replace: of
+2025-09-06 18:11:57 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Returned candidate words: ['many', 'scholars', 'Some', 'notable', 'works', 'in', 'this', 'area', 'include', 'We', 'must', 'also', 'acknowledge', 'that', 'these']
+2025-09-06 18:11:57 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Word to replace: Butler
+2025-09-06 18:12:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Returned candidate words: ['scholars', 'such', 'as', 'Anna', 'Facio', 'who', 'has', 'written', 'about', 'the', 'importance', 'of', 'metaphorical', 'imagery', 'in']
+2025-09-06 18:12:01 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Word to replace: history
+2025-09-06 18:12:03 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Returned candidate words: ['scholars', 'throughout', 'history', 't', 'Output', 'linguistic', 'literary', 'scholarly', 'semiotic', 'grammatical', 'critical', 'theoretical', 'philosophical', 'cultural', 'linguisticist']
+2025-09-06 18:12:03 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Word to replace: been
+2025-09-06 18:12:07 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 - Returned candidate words: ['many', 'scholars', 'over', 'the', 'years', 'Input', 'Paragraph', 'The', 'linguistic', 'turn', 'in', 'art', 'history', 'and', 'the']
+2025-09-06 18:12:07 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - 29 -Word been not replaced
+2025-09-06 18:12:07 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - GPU Name: NVIDIA GeForce RTX 3090
+2025-09-06 18:12:07 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - Allocated memory: 7566.90 MB
+2025-09-06 18:12:07 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - Cached memory: 8038.00 MB
+2025-09-06 18:12:07 - Humanities_tokens_100_qwen-7b-chat_gpt2_roberta-base_2025-09-06_fcf67257 - INFO - Total experiment runtime: 875.38 seconds (14.59 minutes)

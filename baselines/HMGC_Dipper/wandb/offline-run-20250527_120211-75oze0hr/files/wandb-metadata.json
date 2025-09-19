@@ -1,0 +1,165 @@
+{
+    "os": "Linux-6.8.0-59-generic-x86_64-with-glibc2.35",
+    "python": "3.9.21",
+    "heartbeatAt": "2025-05-27T04:02:11.837305",
+    "startedAt": "2025-05-27T04:02:11.713354",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "config.json"
+    ],
+    "state": "running",
+    "program": "/home/qf/HMGC/HMGC-main/train_detector.py",
+    "codePath": "train_detector.py",
+    "host": "yzu",
+    "username": "qf",
+    "executable": "/home/qf/anaconda3/envs/HMGC/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 1674.311958333333,
+        "min": 1200.0,
+        "max": 4650.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1199.455,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1199.888,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1200.176,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1200.153,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 4800.0
+        },
+        {
+            "current": 1200.159,
+            "min": 1200.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1199.795,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1200.632,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 4800.0
+        },
+        {
+            "current": 2100.007,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1200.045,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1200.171,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 4300.001,
+            "min": 1200.0,
+            "max": 4800.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1200.001,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 4600.0
+        },
+        {
+            "current": 4299.998,
+            "min": 1200.0,
+            "max": 4700.0
+        },
+        {
+            "current": 4300.005,
+            "min": 1200.0,
+            "max": 4800.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 4600.0
+        }
+    ],
+    "disk": {
+        "total": 915.3223114013672,
+        "used": 791.8250389099121
+    },
+    "gpu": "NVIDIA GeForce RTX 3090",
+    "gpu_count": 2,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        },
+        {
+            "name": "NVIDIA GeForce RTX 3090",
+            "memory_total": 25769803776
+        }
+    ],
+    "memory": {
+        "total": 125.49456405639648
+    }
+}
