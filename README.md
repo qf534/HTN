@@ -67,4 +67,3 @@ For RAIDAR
 For Binoculars (supports batch processing of multiple JSON files)
 ```
 ./detectors/Binoculars/main.py
-
