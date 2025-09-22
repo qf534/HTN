@@ -23,7 +23,7 @@ Follow the instructions in the LSPG repo to prepare its models, vocab, and depen
 
 ### Running the attack module
 
-The attack module entry point is located in `attack/main.py`. Below is a typical usage example (shell-friendly form):
+The attack module entry point is located in `attack/main.py`. Below is a typical usage example:
 
 ```
 python attack/main.py --method [entropy | random] --generator [lspg | api] --input_file ./datasets/original/STEM.json \
