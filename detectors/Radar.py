@@ -13,8 +13,8 @@ client = OpenAI(
 )
 
 device = "cuda:1"
-radar_model_id = "/homes/qf/models/RADAR-Vicuna-7B"
-input_file = "/home/qf/RAFT/main/Latest/attacked_STEM_ours.json"  # JSON file with {"original": [...], "sampled": [...]} format
+radar_model_id = "RADAR-Vicuna-7B"
+input_file = ""  # JSON file with {"original": [...], "sampled": [...]} format
 
 # ---------------------- Load Data ----------------------
 with open(input_file, "r") as f:

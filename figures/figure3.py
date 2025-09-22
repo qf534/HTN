@@ -10,8 +10,8 @@ from matplotlib.patches import Patch
 # === 配置部分 ===
 datasets = ["Social_Sciences", "STEM", "Humanities","Essay", "Reuters", "WP"]  # 6个数据集
 attack_methods = ["Ours", "Dipper", "Mis_HMGC", "RAFT"]
-base_dir = "/home/qf/RAFT/main"
-original_dir = "/home/qf/RAFT/main/original"
+base_dir = ""
+original_dir = ""
 
 # 自定义颜色
 custom_palette = {
@@ -23,7 +23,7 @@ custom_palette = {
 }
 
 # === 模型初始化 ===
-model_path = "/homes/qf/models/gpt-neo-2.7B"
+model_path = "gpt-neo-2.7B"
 tokenizer = GPT2TokenizerFast.from_pretrained(model_path)
 model = GPTNeoForCausalLM.from_pretrained(model_path)
 model.eval().cuda()
@@ -141,5 +141,5 @@ fig.legend(
 )
 
 plt.tight_layout(rect=[0, 0.07, 1, 1])  # 留出下方空间给 legend
-plt.savefig("/home/qf/RAFT/figures/PPL.pdf", bbox_inches="tight")
+plt.savefig("PPL.pdf", bbox_inches="tight")
 plt.show()

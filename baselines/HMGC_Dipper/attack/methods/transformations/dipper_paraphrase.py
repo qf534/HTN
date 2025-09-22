@@ -30,7 +30,7 @@ class Paraphrase(Transformation):
         order_diversity=40,
         sent_interval=3,
         use_prefix=False,
-        model_name_or_path="/homes/qf/models/dipper-paraphraser-xxl",
+        model_name_or_path="dipper-paraphraser-xxl",
         device=None,
         **kwargs,
     ):
@@ -81,7 +81,7 @@ class Paraphrase(Transformation):
         from transformers import T5Tokenizer, T5ForConditionalGeneration
 
         """ Load models of translation. """
-        self._tokenizer = T5Tokenizer.from_pretrained("/homes/qf/models/t5-v1_1-xxl")
+        self._tokenizer = T5Tokenizer.from_pretrained("t5-v1_1-xxl")
         self._model = T5ForConditionalGeneration.from_pretrained(
             self.model_name_or_path,
             device_map="auto"

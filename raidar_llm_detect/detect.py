@@ -10,9 +10,9 @@ from sklearn.model_selection import train_test_split
 
 # from sklearn.metrics import accuracy_score, classification_report, f1_score, roc_auc_score
 
-human_rewrite_dir = '/home/qf/RAFT/raidar_llm_detect/results/Social_Sciences/original_Social_Sciences_human.json'
-GPT_rewrite_dir = '/home/qf/RAFT/raidar_llm_detect/results/Social_Sciences/original_Social_Sciences_gpt.json'
-GPT_attack_rewrite_dir = '/home/qf/RAFT/raidar_llm_detect/results/New/ablation_Social_Sciences_0.2_GPT.json'
+human_rewrite_dir = ''
+GPT_rewrite_dir = ''
+GPT_attack_rewrite_dir = ''
 with open(human_rewrite_dir, "r") as f:
     data_human = json.load(f)
 

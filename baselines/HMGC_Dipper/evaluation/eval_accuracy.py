@@ -89,7 +89,7 @@ class CheckGPTBlackBoxEvaluator():
     def __init__(self, config):
         self.config = config
         self.checkgpt_path="./data/CheckGPT/model/Unified_Task123.pth"
-        self.local_model_path = "/home/qf/HMGC/HMGC-main/roberta-large"
+        self.local_model_path = "roberta-large"
 
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.tokenizer = RobertaTokenizer.from_pretrained(self.local_model_path)
@@ -166,7 +166,7 @@ class CheckGPTBlackBoxEvaluator():
 class HC3WhiteBoxEvaluator(object):
     def __init__(self, config) -> None:
         self.config = config
-        self.model_path = "/home/qf/HMGC/HMGC-main/chatgpt-detector-roberta"
+        self.model_path = "chatgpt-detector-roberta"
 
         self.local_rank = config.local_rank if config.local_rank != -1 else 0
         self.world_size = config.local_world_size

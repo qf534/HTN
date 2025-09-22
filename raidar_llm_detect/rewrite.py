@@ -4,8 +4,8 @@ from tqdm import tqdm
 from openai import OpenAI
 
 client = OpenAI(
-    base_url="https://api.openai-proxy.org/v1",
-    api_key="sk-XmGVCSM8OERssBmOHPbZX6Ri3a12g1WU6KlkGncYCu089hzR"
+    base_url="",
+    api_key=""
 )
 
 
@@ -46,9 +46,9 @@ def rewrite_json(input_json, prompt_list, output_dir):
             json.dump(all_data, file, indent=4)
 
 
-human_GPT_dir  = '/home/qf/RAFT/main/New/ablation_STEM_0.1.json'
-GPT_attack_dir = '/home/qf/RAFT/main/New/ablation_STEM_0.1.json'
-output_dir = '/home/qf/RAFT/raidar_llm_detect/results/New/ablation_STEM_0.1_GPT.json'
+human_GPT_dir  = ''
+GPT_attack_dir = ''
+output_dir = ''
 with open(human_GPT_dir, "r") as fp:
     fp = json.load(fp)
     human, GPT = fp["original"], fp["sampled"]

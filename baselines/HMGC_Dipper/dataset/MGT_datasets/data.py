@@ -65,9 +65,9 @@ def main():
     test_data = all_data[valid_end:]
 
     # 保存为 jsonl 文件
-    save_jsonl(train_data, "/home/qf/HMGC/HMGC-main/dataset/MGT/train.jsonl")
-    save_jsonl(valid_data, "/home/qf/HMGC/HMGC-main/dataset/MGT/valid.jsonl")
-    save_jsonl(test_data, "/home/qf/HMGC/HMGC-main/dataset/MGT/test.jsonl")
+    save_jsonl(train_data, "./MGT/train.jsonl")
+    save_jsonl(valid_data, "./MGT/valid.jsonl")
+    save_jsonl(test_data, "./dataset/MGT/test.jsonl")
 
 
 if __name__ == "__main__":

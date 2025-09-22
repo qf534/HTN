@@ -113,12 +113,12 @@ class PythiaPPLModel(HuggingFaceModel):
 
     def prepare_model(self,):
         self.model = GPTNeoXForCausalLM.from_pretrained(
-            "/homes/qf/models/pythia-2.8b-deduped",
+            "pythia-2.8b-deduped",
         )
         self.model = self.model.to(self.device)
 
         self.tokenizer = AutoTokenizer.from_pretrained(
-            "/homes/qf/models/pythia-2.8b-deduped"
+            "pythia-2.8b-deduped"
         )
         self.tokenizer.pad_token = self.tokenizer.eos_token
 

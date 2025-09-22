@@ -1,5 +1,5 @@
 {
-  "model_name_or_path": "/homes/qf/models/roberta-base",
+  "model_name_or_path": "roberta-base",
   "train_file": "./dataset/MGT/train.jsonl",
   "validation_file": "./dataset/MGT/valid.jsonl",
   "test_file": "./dataset/MGT/test.jsonl",

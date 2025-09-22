@@ -34,7 +34,7 @@ def get_recipe(target_cls):
         )
     ]
 
-    local_model_path = "/homes/qf/models/bert-base-uncased"
+    local_model_path = "bert-base-uncased"
     model = AutoModelForMaskedLM.from_pretrained(local_model_path)
     tokenizer = AutoTokenizer.from_pretrained(local_model_path)
 

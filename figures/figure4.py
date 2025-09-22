@@ -8,7 +8,7 @@ import matplotlib.patches as mpatches
 import matplotlib.ticker as ticker
 
 # 配置
-model_path = "/homes/qf/models/deberta-xlarge-mnli"
+model_path = "deberta-xlarge-mnli"
 device = "cuda"  # 如果用 CPU 可改为 "cpu"
 
 datasets = ["Social_Sciences", "STEM", "Humanities","Essay", "Reuters", "WP"]  # 扩展到6个数据集
@@ -16,12 +16,12 @@ methods = ["Ours", "Dipper", "Mis_HMGC", "RAFT"]
 
 # 文件路径结构
 base_path = {
-    "Original": "/home/qf/RAFT/main/original",
-    "Ours": "/home/qf/RAFT/main/Ours",
-    "Dipper": "/home/qf/RAFT/main/Dipper",
-    "HMGC": "/home/qf/RAFT/main/HMGC",
-    "Mis_HMGC": "/home/qf/RAFT/main/Mis_HMGC",
-    "RAFT": "/home/qf/RAFT/main/RAFT"
+    "Original": "../datasets/original",
+    "Ours": "../datasets/Ours",
+    "Dipper": "../datasets/Dipper",
+    "HMGC": "../datasets/HMGC",
+    "Mis_HMGC": "../datasets/Mis_HMGC",
+    "RAFT": "../datasets/RAFT"
 }
 
 # 文件名构造函数

@@ -8,7 +8,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 
 # === 路径设置 ===
 kenlm_model_path = "./kenlm_Ngram.bin"
-input_json_path = "/home/qf/RAFT/generated_datasets/original_with_2_models.json"
+input_json_path = ""
 
 # === 加载 KenLM 模型 ===
 kenlm_model = kenlm.Model(kenlm_model_path)
