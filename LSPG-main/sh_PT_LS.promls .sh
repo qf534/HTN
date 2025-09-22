@@ -1,1 +1,0 @@
-python scripts/tsar.pt.promls.py
