@@ -26,7 +26,7 @@ def substitutes_generator(text_words, mask_word_index, top_k=None):
 
     try:
         response = requests.get(
-            f"http://10.135.128.18:8085/get_candidates?prefix={prefix_s}&target={target}&suffix={suffix_s}",
+            f"http://ip_address/get_candidates?prefix={prefix_s}&target={target}&suffix={suffix_s}",
             timeout=30
         )
         if response.status_code == 200:
